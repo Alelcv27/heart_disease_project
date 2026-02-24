@@ -62,13 +62,6 @@ The application expects the following files within the working directory:
 - `heart_2020_cleaned.csv`: The cleaned CDC annual survey dataset.
 - `heartdisease.ipynb`: The main notebook pipeline.
 
-### Execution
-
-Launch Jupyter Notebook and run the cells in sequence to execute the data mining pipeline:
-
-```bash
-jupyter notebook heartdisease.ipynb
-```
 
 ## Configuration
 
