@@ -72,3 +72,6 @@ Hyperparameters tuned for the highest performing `Random Forest` (`best_rf_clf`)
 - `min_samples_split`: 2
 
 **Author:** Alessandro La Cava
+
+---
+Developed as an educational project at the Università della Calabria.
